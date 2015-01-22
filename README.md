@@ -11,4 +11,4 @@ Utilities for storage
   Example code for list block device using libudev
 
 ## udev_scsi
-  Get SCSI host number (host:bus:target:lun) using libudev
+  Get SCSI host number (host\bus\target\lun) using libudev
